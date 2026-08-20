@@ -1,0 +1,18 @@
+# Termux / local files
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS/editor files
+.DS_Store
+Thumbs.db

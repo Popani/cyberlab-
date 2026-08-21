@@ -19,6 +19,7 @@ Project Structure
 cyberlab/
 
 ├── .gitignore
+├── README.md
 ├── permission-lab/
 │   └── test.txt
 └── vulnalab/

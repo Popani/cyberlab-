@@ -17,12 +17,14 @@ HTML
 Local Python web server
 Project Structure
 cyberlab/
+
 ├── .gitignore
 ├── permission-lab/
 │   └── test.txt
 └── vulnalab/
     └── web/
         └── index.html
+		
 Completed Work
 Linux & File Permissions
 
